@@ -1,0 +1,14 @@
+LIBRARY			"MyDll1"
+
+EXPORTS			INTrol
+EXPORTS			INTror
+EXPORTS			BYTErol
+EXPORTS			BYTEror
+EXPORTS			getbyteItem
+EXPORTS			convertCOLOR
+EXPORTS			convertCOLOR2
+EXPORTS			get256
+EXPORTS			drawPic
+EXPORTS			cpymem
+EXPORTS			ReadDataFromFile 
+EXPORTS			ReadPicFromBytes 

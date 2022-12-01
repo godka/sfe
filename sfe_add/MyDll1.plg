@@ -1,0 +1,34 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: MyDll1 - Win32 Release--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSPF3.tmp" with contents
+[
+/nologo /MT /W3 /GX /O2 /D "WIN32" /D "NDEBUG" /D "_WINDOWS" /D "_MBCS" /D "_USRDLL" /D "MYDLL1_EXPORTS" /Fp"Release/MyDll1.pch" /YX /Fo"Release/" /Fd"Release/" /FD /c 
+"D:\sfe_src\sfe0.72.20\sfe_add\MyDll1.cpp"
+]
+Creating command line "cl.exe @C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSPF3.tmp" 
+Creating temporary file "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSPF4.tmp" with contents
+[
+kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /nologo /dll /incremental:no /pdb:"Release/sfeAdd.pdb" /machine:I386 /def:".\MyDll1.def" /out:"Release/sfeAdd.dll" /implib:"Release/sfeAdd.lib" 
+.\Release\MyDll1.obj
+]
+Creating command line "link.exe @C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSPF4.tmp"
+<h3>Output Window</h3>
+Compiling...
+MyDll1.cpp
+Linking...
+   Creating library Release/sfeAdd.lib and object Release/sfeAdd.exp
+sfeAdd.exp : warning LNK4070: /OUT:MyDll1.dll directive in .EXP differs from output filename "Release/sfeAdd.dll"; ignoring directive
+
+
+
+<h3>Results</h3>
+sfeAdd.dll - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>

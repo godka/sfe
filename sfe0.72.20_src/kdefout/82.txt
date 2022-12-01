@@ -1,0 +1,11 @@
+事件82(52)
+ 说明：:Label3
+ 说明：:Label2
+ 说明：:Label1
+ 说明：:Label0
+ 说明：:Label7
+ 说明：:Label6
+ 说明：:Label5
+ 说明：:Label4
+  -1(FFFF):事件结束
+

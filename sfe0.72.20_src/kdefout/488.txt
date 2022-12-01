@@ -1,0 +1,8 @@
+事件488(1E8)
+ 说明：:Label1
+ 说明：:Label2
+ 说明：:Label4
+ 说明：:Label3
+ 说明：:Label0
+  -1(FFFF):事件结束
+

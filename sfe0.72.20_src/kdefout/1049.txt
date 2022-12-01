@@ -1,0 +1,8 @@
+事件1049(419)
+ 说明：:Label0
+ 说明：:Label2
+ 说明：:Label4
+ 说明：:Label3
+ 说明：:Label1
+  -1(FFFF):事件结束
+

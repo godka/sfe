@@ -1,0 +1,9 @@
+事件108(6C)
+ 说明：:Label1
+ 说明：:Label0
+ 说明：:Label5
+ 说明：:Label4
+ 说明：:Label3
+ 说明：:Label2
+  -1(FFFF):事件结束
+

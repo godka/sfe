@@ -1,0 +1,27 @@
+事件235(EB)
+ 说明：:Label1
+ 说明：:Label0
+ 说明：:Label3
+ 说明：:Label2
+ 说明：:Label5
+ 说明：:Label4
+ 说明：:Label8
+ 说明：:Label7
+ 说明：:Label10
+ 说明：:Label9
+  68(44):[武三通]:当前只有一种种子和一种水，是否种植？(背景0)
+ 说明：:Label12
+ 说明：:Label15
+ 说明：:Label16
+ 说明：:Label13
+ 说明：:Label18
+ 说明：:Label14
+ 说明：:Label21
+ 说明：:Label20
+ 说明：:Label11
+ 说明：:Label6
+  68(44):[武三通]:对不起，原材料不足，请集齐材料再来。(背景0)
+ 说明：:Label19
+ 说明：:Label17
+  -1(FFFF):事件结束
+
